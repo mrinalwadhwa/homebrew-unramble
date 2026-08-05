@@ -1,6 +1,6 @@
 cask "unramble" do
-  version "0.3.1"
-  sha256 "7e09c429ab09f7755224df82670ec9273b88ecced680a4ee9f56647898df710a"
+  version "0.4.0"
+  sha256 "72a1b826e50ae8056a8e32cf3e78fd0561e8f81cd82631865aecd7554ca4198d"
 
   url "https://github.com/mrinalwadhwa/unramble/releases/download/v#{version}/Unramble.dmg"
   name "Unramble"
